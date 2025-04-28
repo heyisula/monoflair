@@ -1,0 +1,64 @@
+{
+  "name": "monoflair",
+  "displayName": "Monoflair",
+  "description": "A dark, elegant VS Code theme for night owls. Made with ❤️ by Isula Dissanayake.",
+  "version": "1.0.0",
+  "publisher": "isuladissanayake",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": ["Themes"],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Monoflair",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Monoflair-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/heyisula/monoflair"
+  },
+  "license": "MIT",
+  "icon": "Previews/icon.png",
+  "keywords": [
+    "theme", "dark", "dark theme", "monoflair", "color theme", "vscode theme", "editor theme", "night mode",
+    "dev theme", "elegant", "modern", "clean", "minimal", "coding", "developer", "vscode", "vscode dark theme",
+    "programming", "aesthetic", "soft colors", "syntax highlight", "monokai", "dracula", "gruvbox", "tokyo night",
+    "material", "custom theme", "cool theme", "theme extension", "beautiful", "smooth", "relaxed", "easy on eyes",
+    "low contrast", "high contrast", "warm colors", "cool colors", "purple theme", "blue theme", "black theme",
+    "sleek", "deep", "matte", "focused", "creative", "flair", "monoflair theme", "code style", "dev style",
+    "color palette", "developer tool", "night coding", "chill", "workspace theme", "vibrant", "bold", "stylish",
+    "neat", "professional", "designer", "front-end", "back-end", "full stack", "ui theme", "ux", "neovim",
+    "intellij", "sublime", "atom", "js theme", "python theme", "css theme", "html theme", "typescript", "javascript",
+    "react", "vue", "angular", "nodejs", "webdev", "web development", "software dev", "ai dev", "vs code",
+    "code editor", "user theme", "customizable", "open source", "developer productivity", "minimal theme", "dark mode",
+    "dark ui", "soft theme", "mood", "coding aesthetic", "monoflair dark", "monoflair vscode", "dark flair",
+    "designed with love", "made by isula", "stylish coding", "theme lover", "colorful code", "dark delight",
+    "chill vibes", "visual studio code", "vscode extension", "dark mode theme", "dark interface", "minimalistic theme",
+    "sleek theme", "custom themes", "elegant theme", "vscode UI", "night mode theme", "coding style",
+    "theme for vscode", "python vscode", "javaScript theme", "html theme", "css syntax", "light on eyes",
+    "soft colors theme", "dark editor", "code syntax highlighter", "editor colors", "dev environment",
+    "programming environment", "visual theme", "user interface theme", "python programming", "JavaScript syntax",
+    "modern UI", "neat theme", "coding aesthetics", "visual experience", "vscode code editor", "powerful theme",
+    "light theme", "focus theme", "cool code colors", "editor customization", "vibrant editor theme", "theme for devs",
+    "html editor", "customizable theme", "color design", "nodejs theme", "clean look", "vibrant dark theme",
+    "tech theme", "front-end theme", "back-end theme", "full-stack theme", "programming style", "open source theme",
+    "vibrant syntax colors", "vscode color customization", "responsive theme", "coding focus", "monoflair dark mode",
+    "dark visual theme", "editor enhancement", "smart design", "minimal color palette", "beautiful user interface",
+    "creative developer tools", "developer-focused theme", "light on eyes theme", "dark code editor",
+    "unique color theme", "colorful dev theme", "vscode colors", "dark environment", "beautiful syntax",
+    "code editor design", "sleek workspace", "dark design", "night owl theme", "coding elegance", "themed experience",
+    "dynamic theme", "high contrast editor", "relaxed coding environment", "purple and blue theme",
+    "light and dark contrast", "dev tools", "focus on code", "coding mood", "aesthetic theme", "workspace enhancement",
+    "creative coding style", "modern code theme", "text editor theme", "sleek code interface", "dark workspace",
+    "cool workspace theme", "new theme", "software developer theme", "developer tools theme", "VS Code dark mode"
+  ],
+  "author": {
+    "name": "Isula Dissanayake",
+    "email": "isulacodes@gmail.com",
+    "url": "https://github.com/heyisula"
+  }
+}
